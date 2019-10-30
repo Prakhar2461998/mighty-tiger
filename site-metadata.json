@@ -6,7 +6,7 @@
     "title": "Travel and Explore",
     "tagline": "“Let's find some beautiful place to get lost” ...",
     "profile_img": "/images/places-to-travel-in-2018-1522385995-390x219.jpg",
-    "bg": "light",
+    "bg": "dark",
     "has_nav": true,
     "has_social": true
   },
@@ -16,6 +16,13 @@
       {
         "text": "Made with Stackbit",
         "url": "https://www.stackbit.com",
+        "new_window": true
+      },
+      {
+        "url": "",
+        "new_window": true
+      },
+      {
         "new_window": true
       }
     ]
